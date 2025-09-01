@@ -1,7 +1,7 @@
 # MCU and Host Temperature Monitoring on Qidi Q1 Pro
 
 ## Description
-![Fluidd](docs/images/fluid-temp.jpg)
+![Fluidd](/docs/images/fluid-temp.jpg)
 This modification allows you to monitor temperatures of all important components of your Qidi Q1 Pro printer in the Fluidd/Mainsail interface. This helps control equipment status and prevent overheating.
 
 ## What is monitored
