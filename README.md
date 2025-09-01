@@ -23,6 +23,7 @@ This is an open community-driven collection of firmware setups, hardware mods an
 
 ## Firmware & Software
 - [MCU and Host Temperature Monitoring](docs/host-temp-fluidd.md)
+- [Steppers XY Temperature Monitoring](docs/fluidd-drivers-temp.md)
 
 ---
 

@@ -24,6 +24,7 @@
 
 ## Софт
 - [Мониторинг температуры MCU и хоста](docs/ru/host-temp-fluidd.md)
+- [Мониторинг температуры драйверов XY](docs/ru/fluidd-drivers-temp.md)
 
 ---
 
