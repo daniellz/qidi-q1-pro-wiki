@@ -1,7 +1,7 @@
 # MCU and Host Temperature Monitoring on Qidi Q1 Pro
 
 ## Description
-
+![Fluidd](docs/images/fluid-temp.jpg)
 This modification allows you to monitor temperatures of all important components of your Qidi Q1 Pro printer in the Fluidd/Mainsail interface. This helps control equipment status and prevent overheating.
 
 ## What is monitored
@@ -34,7 +34,7 @@ Add the following blocks to your `printer.cfg` file:
 
 ```ini
 # MKSPI Temperature (Host CPU)
-[temperature_sensor Host_CPU]
+[temperature_sensor Host]
 sensor_type: temperature_host
 min_temp: 0
 max_temp: 90

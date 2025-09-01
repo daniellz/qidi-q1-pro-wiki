@@ -2,6 +2,7 @@
 
 ## Описание
 
+![Fluidd](docs/images/fluid-temp.jpg)
 Данная модификация позволяет отслеживать температуры всех важных компонентов вашего принтера Qidi Q1 Pro в интерфейсе Fluidd/Mainsail. Это поможет контролировать состояние оборудования и предотвратить перегрев.
 
 ## Что мониторится
@@ -34,7 +35,7 @@ nano /home/mks/klipper_config/printer.cfg
 
 ```ini
 # Температура MKSPI (Host CPU)
-[temperature_sensor Host_CPU]
+[temperature_sensor Host]
 sensor_type: temperature_host
 min_temp: 0
 max_temp: 90
