@@ -48,6 +48,7 @@
 - Неофициальный [r/QIDI](https://www.reddit.com/r/QIDI)
 - Официальный [Discord](https://discord.gg/ygRPsMfR)
 - Неофициальный [Discord](https://discord.gg/aQBF34zT)
+- Неофициальные чаты в тг [QidiTechRussia](https://t.me/QidiTechRussia) [qidixmax3](https://t.me/qidixmax3)
 
 ---
 
