@@ -1,5 +1,5 @@
 ### Printer.cfg с комментариями
-
+[← Назад к оглавлению](README.ru.md)
 Версия 4.4.24
 Для детальной справки по намтройкам можно посмотреть в официальной документации [Klipper](https://www.klipper3d.org/Config_Reference.html)
 
@@ -507,3 +507,4 @@ gcode:
 [virtual_sdcard]
 path: ~/gcode_files # Путь к директории с G-кодом.
 ```
+[← Назад к оглавлению](README.ru.md)

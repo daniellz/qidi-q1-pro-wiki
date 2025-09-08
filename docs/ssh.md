@@ -1,5 +1,5 @@
 # SSH Connection to Klipper Printer on Armbian
-
+[← Back to ToC](README.md)
 ## Introduction
 
 SSH (Secure Shell) is a protocol for secure remote device management over a network. In the context of 3D printing, SSH is used to manage single-board computers (Orange Pi, Raspberry Pi, etc.) with Armbian installed, running Klipper firmware.
@@ -25,7 +25,8 @@ SSH allows you to:
 **Method 1: From the printer menu**
 1. Settings (gear icon)
 2. Network
-<img src="/docs/images/network-screen.jpg" width="300">
+ 
+<img src="/docs/images/network-en.png" width="300">
 
 **Method 2: Via Mainsail/Fluidd web interface**
 1. Open the printer's web interface
@@ -266,3 +267,4 @@ sudo systemctl status nginx --no-pager -l
 ## Conclusion
 
 SSH is a powerful tool for managing Klipper printers on Armbian. Proper SSH setup and usage allows effective printer administration, quick problem solving, and keeping the system up to date. Remember the importance of following security measures when working with remote access.
+[← Back to ToC](README.md)

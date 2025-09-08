@@ -1,5 +1,5 @@
 # KAMP Not Working (Scans Entire Bed)
-
+[← Back to ToC](README.md)
 ## Problem
 
 If your Qidi Q1 Pro scans the entire bed surface when building the height map (bed mesh), instead of scanning only the print area of the object, the issue may be in the slicer settings.
@@ -53,3 +53,4 @@ KAMP (Klipper Adaptive Meshing & Purging) uses:
 ---
 
 **Note:** This setting should be enabled by default for optimal operation with modern versions of Klipper and KAMP.
+[← Back to ToC](README.md)

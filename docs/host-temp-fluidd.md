@@ -1,5 +1,5 @@
 # MCU and Host Temperature Monitoring on Qidi Q1 Pro
-
+[← Back to ToC](README.md)
 ## Description
 ![Fluidd](/docs/images/fluid-temp.jpg)
 
@@ -97,3 +97,4 @@ When these limits are exceeded, Klipper will issue a warning or stop printing.
 This is normal for MCU sensors - they show approximate chip temperature, not accurate ambient temperature.
 
 **Note:** This modification does not affect printer operation, it only adds temperature monitoring for better equipment status control.
+[← Back to ToC](README.md)

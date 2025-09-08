@@ -1,5 +1,5 @@
 # Stepper Driver Temperature Monitoring on Qidi Q1 Pro
-
+[← Back to ToC](README.md)
 ![Fluidd](/docs/images/fluid-temp.jpg)
 
 ## Description
@@ -99,3 +99,4 @@ With this upgrade, your Fluidd interface will display:
 ---
 
 **Note:** This modification enhances monitoring capabilities without affecting printer operation. The stepper driver temperature monitoring helps prevent thermal issues and extends hardware lifespan.
+[← Back to ToC](README.md)

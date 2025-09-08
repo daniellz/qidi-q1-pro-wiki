@@ -13,33 +13,38 @@ This is an open community-driven collection of firmware setups, hardware mods an
 ---
 
 ## 📑 Contents
-
-- [Firmware & Software](#firmware--software)
-- [Mods & Hardware Upgrades](#mods--hardware-upgrades)
-- [Maintenance & Known Issues](#maintenance--known-issues)
+- [General Information](#general-information)
+- [Software Modifications](#software-modifications)
+- [Hardware Modifications](#hardware-modifications)
+- [Models](#models)
+- [Maintenance and Known Issues](#maintenance-and-known-issues)
 - [External Resources](#external-resources)
 
 ---
 
-## Firmware & Software
+## General Information
+- [About SSH](docs/ssh.md)
+
+## Software Modifications
 - [MCU and Host Temperature Monitoring](docs/host-temp-fluidd.md)
-- [Steppers XY Temperature Monitoring](docs/fluidd-drivers-temp.md)
-- [KAMP Not Working (Scans Entire Bed)](docs/kamp-not-working.md)
-
----
-
-## Mods & Hardware Upgrades
+- [XY Drivers Temperature Monitoring](docs/fluidd-drivers-temp.md)
+- [KAMP Not Working (maps entire bed)](docs/kamp-not-working.md)
 
 
 ---
 
-## Printable Upgrades
+## Hardware Modifications
 
 
 ---
 
-## Maintenance & Known Issues
+## Models
 
+
+---
+
+## Maintenance and Known Issues
+- [Known Issues](/docs/problems.md)
 ---
 
 ## External Resources
