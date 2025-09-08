@@ -25,7 +25,7 @@ SSH позволяет:
 **Способ 1: С меню принтера**
 1. Шестеренка
 2. Сеть
-![Network](/docs/images/network-screen.jpg)
+   <img src="/docs/images/network-screen.jpg" width="300">
 
 **Способ 2: Через веб-интерфейс Mainsail/Fluidd**
 1. Откройте веб-интерфейс принтера

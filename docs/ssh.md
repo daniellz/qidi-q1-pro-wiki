@@ -25,7 +25,7 @@ SSH allows you to:
 **Method 1: From the printer menu**
 1. Settings (gear icon)
 2. Network
-   ![Network](/docs/images/network-screen.jpg)
+<img src="/docs/images/network-screen.jpg" width="300">
 
 **Method 2: Via Mainsail/Fluidd web interface**
 1. Open the printer's web interface
